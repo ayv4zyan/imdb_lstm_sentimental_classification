@@ -4,6 +4,8 @@ This is simple Neural Network which was built with LSTM in Keras for sentimental
 Long short-term memory (LSTM) is an artificial neural network used in the fields of artificial intelligence and deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. Such a recurrent neural network (RNN) can process not only single data points (such as images), but also entire sequences of data (such as speech or video). This characteristic makes LSTM networks ideal for processing and predicting data.
 **Keras** is a high-level, deep learning API developed by Google for implementing neural networks. It is written in Python and is used to make the implementation of neural networks easy. It also supports multiple backend neural network computation.
 
+<img src="https://www.michaelfxu.com/assets/images/posts/lstm_diagram.png" />
+
 ### Dataset
 <hr>
 In this work I use IMDB dataset from keras.datasets.
@@ -28,8 +30,6 @@ This is a dataset of 25,000 movies reviews from IMDB, labeled by sentiment (posi
 <li><a href="https://keras.io/api/datasets/imdb/">
     https://keras.io/api/datasets/imdb/</a>
 </li>
-
-<img src="https://www.michaelfxu.com/assets/images/posts/lstm_diagram.png" />
 <li><a href="https://www.kaggle.com/ngyptr/lstm-sentiment-analysis-keras">
     https://www.kaggle.com/ngyptr/lstm-sentiment-analysis-keras</a>
 </li>
