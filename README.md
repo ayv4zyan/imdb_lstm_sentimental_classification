@@ -1,4 +1,6 @@
 # IMDB Dataset Keras sentimental classification using LSTM
+
+<a href="https://colab.research.google.com/github/NeonRio/imdb_lstm_sentimental_classification/blob/main/IMDB_sentimental_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <br>
 This is simple Neural Network which was built with LSTM in Keras for sentimental classification on IMDB dataset.
 **Sentiment Analysis** is a classification of emotions (in this case, positive and negative) on text data using text analysis techniques (In this case LSTM).
 Long short-term memory (LSTM) is an artificial neural network used in the fields of artificial intelligence and deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. Such a recurrent neural network (RNN) can process not only single data points (such as images), but also entire sequences of data (such as speech or video). This characteristic makes LSTM networks ideal for processing and predicting data.
